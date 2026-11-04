@@ -4,9 +4,7 @@
 
 ## 手机 / 电脑访问
 
-- **Claude 在线版**（私有，需登录本人 Claude 账号）：https://claude.ai/artifact/7t4oebj9T9r9jDUAkxp6KK
-- **GitHub Pages 公开版**：https://liyf1640.github.io/Yijing/
-  需先在仓库 Settings → Pages 中选择 `main` 分支、根目录（`/`）并保存，一两分钟后生效。公开后任何人无需登录即可打开。
+公开地址：https://liyf1640.github.io/Yijing/
 
 建议手机上用浏览器打开后“添加到主屏幕”，当作小应用每天使用。
 
